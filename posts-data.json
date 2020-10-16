@@ -1,0 +1,12 @@
+{
+    "app-name": "Posts for a day",
+    "posts": {
+        "list": [
+            {
+                "public-identity": "Luffy",
+                "category": "public",
+                "description": "Hiii"
+            }
+        ]
+    }
+}
